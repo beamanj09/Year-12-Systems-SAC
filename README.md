@@ -4,11 +4,12 @@ an music player mixed with a phone design (might get changed)
 # starting/introduction
 when i mean by 'phone design' operating system will be around an phone 'shape' or i can just do an music player that has bluetooth combatability and a audio jack (convenience)
 so, for this, i dont have an exact idea on what im doing or the knowlege on how to code, so im going to wing it and use AI for the code and possibly *how* i wire it as i dont know at the moment.
-i dont know if i can use aliexpress parts but if im not able to, ill find alternative parts to the aliexpress parts i find. i also dont exactly know how to make a portfolio so ill be going off on what i am able to do as i dont know how to word it. ill include some images on a phone design of a ipod/music player 
+i dont know if i can use aliexpress parts but if im not able to, ill find alternative parts to the aliexpress parts i find. i also dont exactly know how to make a portfolio so ill be going off on what i am able to do as i dont know how to word it. ill include some images on a phone design of a ipod/music player.
 
+had an actual idea change, casset player, like the one in guardians of the galaxy, but there wont be a casset player in it, but it will look like a casset player, i do need to have a mechanical system on the thing, i might just have a belt that makes it look like a casset player on the outside on the lid to cover the touch screen with just a motor
 
 # materials (ideas):
-- microcontroller, display, some sort of controls or like a touch screen for the display, audio jack, SD reader + SD card, battery (havent decided on how much watthours it should hold), battery charger (probably a USB C and including a lightning port for convenience too)
+- microcontroller, display, some sort of controls or like a touch screen for the display, audio jack, SD reader + SD card, battery (havent decided on how much watthours it should hold), battery charger (probably a USB C and including a lightning port for convenience too), cassette player reader thing, 
 
 # material list (basic):
 - esp 32: https://www.aliexpress.com/item/1005005704190069.html?src=google&src=google&albch=shopping&acnt=742-864-1166&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005005704190069&ds_e_product_merchant_id=5852244380&ds_e_product_country=AU&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=21819463808&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=21819486122&gclid=Cj0KCQiA-8XXBhDaARIsADnEOrCq64YOvA1zoFXdpRzaIj6mhmmib3ehLft0jWMOvCPC_0lWs53vyqAaAiGrEALw_wcB
